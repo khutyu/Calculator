@@ -1,2 +1,2 @@
 # Calculator
-Still in progress
+Just a basic calculator
